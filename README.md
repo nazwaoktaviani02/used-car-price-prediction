@@ -15,8 +15,8 @@ Workflow
 
 Results
 The optimized model reached its best performance with the following parameters:
-> max_depth: 5
-> n_estimators: 5
+- max_depth: 5
+- n_estimators: 5
 
 Tech Stack
 > Language: Python
