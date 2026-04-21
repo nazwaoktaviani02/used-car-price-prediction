@@ -19,8 +19,8 @@ The optimized model reached its best performance with the following parameters:
 - n_estimators: 5
 
 Tech Stack
-> Language: Python
-> Libraries: Pandas, Scikit-learn, Seaborn, Matplotlib
+- Language: Python
+- Libraries: Pandas, Scikit-learn, Seaborn, Matplotlib
 
 How to Use
 1. Clone the repository.
